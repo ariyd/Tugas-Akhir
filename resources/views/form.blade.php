@@ -30,7 +30,7 @@
             <div class="col-12 col-lg-6 col-xl-6 px-5">
                 <div class="row vh-100">
                     <div class="col align-self-center p-5 w-100">
-                        <h3 class="fw-bolder">WELCOME BACK !</h3>
+                        <h3 class="fw-bolder">WELCOME to STARBOOKS!</h3>
                         <p class="fw-lighter fs-6">Don't have an account, <span id="signUp" role="button" class="text-primary">Sign Up</span></p>
                         <!-- form login section -->
                         <form action="" class="mt-5">
@@ -46,7 +46,7 @@
                                 </div>
                             </div>
                             <div class="col text-center">
-                                <button type="submit" href="/shop"class="btn btn-outline-light btn-lg rounded-pill mt-4 w-100"><a href="shop">login</a></button>
+                                <button type="submit" href="/shop"class="btn btn-outline-light btn-lg rounded-pill mt-4 w-100"><a>login</a></button>
                             </div>
                         </form>
                         <p class="mt-5 text-center">Or Sign in with social platforms</p>

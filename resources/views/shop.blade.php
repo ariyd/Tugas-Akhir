@@ -60,7 +60,7 @@
                     <div class="category">
                         <ul class="nav-links category">
                             <li><a href="javascript:void(0)" id="all-burg" class="nav-item active">All</a></li>
-                            <li><a href="javascript:void(0)" id="bacon-burg" class="nav-item">Specifik</a></li>
+                            <li><a href="javascript:void(0)" id="bacon-burg" class="nav-item">Spesifik</a></li>
                             <li><a href="javascript:void(0)" id="beef-burg" class="nav-item">Complete</a></li>
                             <li><a href="javascript:void(0)" id="chesee-burg" class="nav-item">Semi Complete</a></li>
                             <li><a href="javascript:void(0)" id="chicken-burg" class="nav-item">Others</a></li>
